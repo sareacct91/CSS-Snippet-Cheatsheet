@@ -38,7 +38,6 @@ section {
   border: 2px dashed var(--color-light);
   width: 32%;
   min-height: 100px;
-  flex-direction: column;
   margin-bottom: 40px;
 }
 
